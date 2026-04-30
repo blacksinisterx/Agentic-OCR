@@ -31,10 +31,8 @@
 
 | Model | Size | VRAM Used | Speed | Accuracy | Verdict |
 |---|---|---|---|---|---|
-| `llava:7b-v1.6` | 4.7 GB | ~4.5 GB VRAM | ~4 tok/s | ⭐⭐⭐⭐⭐ | **✅ BEST CHOICE** |
-| `llava-phi3` | 2.9 GB | ~2.8 GB VRAM | ~8 tok/s | ⭐⭐⭐⭐ | Fast alternative |
-| `moondream` | 1.7 GB | ~1.6 GB VRAM | ~15 tok/s | ⭐⭐⭐ | Quick tests only |
-| `minicpm-v` | 5.5 GB | ~4 GB + shared | ~3 tok/s | ⭐⭐⭐⭐⭐ | Also great |
+| `llava:7b-v1.6` | 4.7 GB | ~4.5 GB VRAM | ~4 tok/s | ⭐⭐⭐⭐⭐ | **good** |
+| `minicpm-v` | 5.5 GB | ~4 GB + shared | ~3 tok/s | ⭐⭐⭐⭐⭐ | **great for handwriting** |
 
 > **Why `llava:7b-v1.6`?**  
 > It will use 4 GB dedicated + ~0.5 GB shared VRAM. Windows allows this overflow automatically.  
