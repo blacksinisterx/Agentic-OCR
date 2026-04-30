@@ -395,3 +395,4 @@ This satisfies the privacy requirements discussed in Phase 2 (CLO 6 — Data Pro
 
 *ScribeAI — Built with ❤️ for FAST-NUCES PPIT Course*  
 *Phase 2: Agentic Transformation — Professional Practices in IT*
+ 
